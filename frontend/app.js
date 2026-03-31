@@ -1,1 +1,1 @@
-console.log("Frontend placeholder");
+console.log("Home page loaded");
